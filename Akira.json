@@ -1,4 +1,14 @@
-{  
-  "maintenance": false,
-  "message": "bot di nonaktifkan oleh akira"
+{
+  "akiracode": "Veldanava2",
+  "description": "akiraa",
+  "allowedNumbers": [
+    "62895704333683",
+    "62895329768991",
+    "6289687572394",
+    "6283173561487",
+    "62895329768991",
+    "6287776164933",
+    "6285758011804",
+    "6281919646133"
+  ]
 }
