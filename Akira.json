@@ -1,14 +1,4 @@
-[
-  {
-    "username": "amuser1@gmail.com",
-    "password": "Pass123"
-  },
-  {
-    "username": "amuser2@gmail.com",
-    "password": "Pass456"
-  },
-  {
-    "username": "amuser3@gmail.com",
-    "password": "Pass789"
-  }
-]
+{
+  "status": "empty",
+  "message": "Tidak ada stok AM Premium tersedia."
+}
